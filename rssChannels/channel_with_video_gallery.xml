@@ -7,18 +7,6 @@
 		<description>Secção Vídeo</description>
 		<atom:link href="http://www.dnoticias.pt/rss/multimedia/videos.xml" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>Primera noticia</title>
-			<link>http://www.dnoticias.pt/multimedia/videos/casal-luso-descendente-produziu-um-video-sobre-a-madeira-FE2273171</link>
-			<guid isPermaLink="false">bf7ae213-3efa-4309-a406-9aaf3850bb5fdfsdfdsdfsdfg</guid>
-			<pubDate>Mon, 30 Oct 2018 11:28:37 GMT</pubDate>
-			<source url="http://www.dnoticias.pt/rss/multimedia/videos.xml">Vídeo</source>
-			<description>Este texto es únicamente un texto de prueba</description>
-			<media:content height="225" medium="image" url="http://www.dnoticias.pt/documents/1/0/400x284/0c29/400d225/none/11506/PVUC/image_content_1091051_20171030112726.jpg" width="400"/>
-			<media:content>
-				<media:player url="https://youtu.be/_wr4mRuT234"/>
-			</media:content>
-		</item>
-		<item>
 	      <title>At Tiffany, the Fifth Avenue Face-Lift Starts at Home</title>
 	      <link>https://www.nytimes.com/2017/11/07/style/tiffany-store-tour.html?partner=rss&amp;emc=rss</link>
 	      <guid isPermaLink="true">https://www.nytimes.com/2017/11/07/style/tiffany-store-tour.html</guid>
@@ -38,30 +26,6 @@
 	      <media:credit>Jennifer S. Altman for The New York Times</media:credit>
 	      <description>Kith, the streetwear superstore, opens with enough sneakers and Rice Krispie treats to satisfy the hungriest of young men.</description>
 	    </item>
-		<item>
-			<title>Esta noticia también la he inventado</title>
-			<link>http://www.dnoticias.pt/multimedia/videos/casal-luso-descendente-produziu-um-video-sobre-a-madeira-FE2273171</link>
-			<guid isPermaLink="false">bf7ae213-3efa-4309-a406-9aaf3850bb5qwe</guid>
-			<pubDate>Mon, 30 Oct 2017 11:28:37 GMT</pubDate>
-			<source url="http://www.dnoticias.pt/rss/multimedia/videos.xml">Vídeo</source>
-			<description>Este texto es únicamente un texto de prueba</description>
-			<media:content height="225" medium="image" url="http://www.dnoticias.pt/documents/1/0/400x284/0c29/400d225/none/11506/PVUC/image_content_1091051_20171030112726.jpg" width="400"/>
-			<media:content>
-				<media:player url="https://youtu.be/_wr4mRuT234"/>
-			</media:content>
-		</item>
-		<item>
-			<title>Esta noticia me la he inventado</title>
-			<link>http://www.dnoticias.pt/multimedia/videos/casal-luso-descendente-produziu-um-video-sobre-a-madeira-FE2273171</link>
-			<guid isPermaLink="false">bf7ae213-3efa-4309-a406-9aaf3850bb5a</guid>
-			<pubDate>Mon, 30 Oct 2017 11:28:37 GMT</pubDate>
-			<source url="http://www.dnoticias.pt/rss/multimedia/videos.xml">Vídeo</source>
-			<description>Este texto es únicamente un texto de prueba</description>
-			<media:content height="225" medium="image" url="http://www.dnoticias.pt/documents/1/0/400x284/0c29/400d225/none/11506/PVUC/image_content_1091051_20171030112726.jpg" width="400"/>
-			<media:content>
-				<media:player url="https://youtu.be/_wr4mRuT234"/>
-			</media:content>
-		</item>
 		<item>
 			<title>Casal luso-descendente produziu um vídeo sobre a Madeira</title>
 			<link>http://www.dnoticias.pt/multimedia/videos/casal-luso-descendente-produziu-um-video-sobre-a-madeira-FE2273171</link>
